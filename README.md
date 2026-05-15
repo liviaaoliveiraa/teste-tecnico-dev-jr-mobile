@@ -4,7 +4,16 @@
 
 **ATENÇÃO:**
 
-Antes de iniciar o teste, faça um **fork** deste repositório para a sua conta do GitHub. Realize todo o desenvolvimento no seu repositório forkado. Ao finalizar, envie o **link do seu repositório** (com as alterações realizadas) como entrega.
+Antes de iniciar o teste, faça um **fork** deste repositório para a sua conta do GitHub. Em seguida, utilize o comando `git clone` para baixar o seu fork para o seu computador:
+
+```bash
+git clone https://github.com/seu-usuario/perfil-dev-jr.git
+```
+
+Realize todo o desenvolvimento no seu repositório forkado. Ao finalizar, envie o **link do seu repositório** (com as alterações realizadas) como entrega.
+
+> **Alerta sobre uso de IAs:**
+> O uso de ferramentas de Inteligência Artificial (como ChatGPT, Copilot, Gemini, etc.) deve ser feito com responsabilidade. Utilize-as apenas como apoio para dúvidas ou revisão de código, nunca para copiar soluções prontas sem entender. Você será cobrado(a) sobre o entendimento do seu código na entrevista técnica.
 
 ---
 
